@@ -1,1 +1,1 @@
-# KnowledgeTrainingUniApp
+# 中小学生课外知识训练系统
